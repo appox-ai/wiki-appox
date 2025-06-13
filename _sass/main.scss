@@ -1,0 +1,117 @@
+// Para cambiar los colores estandar de bootstrapt
+@import "scss/functions"; 
+@import "scss/variables";
+
+$success: #4fff4fe5; // se crea la variable 
+$subtitle: #00f17d;
+// Se adiciona el nuevo color a $theme-colors
+$theme-colors: map-merge($theme-colors, (
+  "success": $success,
+  "subtitle": $subtitle
+));
+
+// set changes
+@import "scss/bootstrap";
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+}
+
+.bigContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+@media (max-width: 768px) {
+  .bigContainer {
+    flex-direction: column;
+  }
+}
+
+.sidebar {
+  width: 300px;
+}
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    position: relative;
+    background-color: none;
+  }
+}
+
+#logo_desktop {
+  display: block;
+  height: 50px;
+  margin-top: 40px ;
+}
+#logo_mobile {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  #logo_desktop {
+    display: none;
+  }
+
+  #logo_mobile {
+    width: 100%; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    }
+}
+
+input:focus {
+  border: 2px solid $success !important;
+}
+.content {
+  width: 100%;
+  max-width: 900px;
+  padding: 60px 20px 40px 20px;
+}
+
+@media (max-width: 768px) {
+  .content {
+    padding: 40px 20px 40px 20px;
+  }
+}
+
+.content h1 {
+  font-size: 2rem;
+  color: $success;
+}
+
+.content h2 {
+  font-size: 1.5rem;
+  padding-top: 20px;
+  color: $subtitle;
+}
+
+.content h3 {
+  font-size: 1.25rem;
+  color: $subtitle;
+}
+
+h4 {
+  font-size: 1rem;
+  color: $subtitle;
+}
+
+.content p {
+  font-size: 0.9rem;
+  text-align: justify;
+}  
+
+.content blockquote {
+  font-size: 0.9rem;
+  padding: 10px;
+  border-left: 4px solid #ccc;
+  font-style: italic;
+  font-weight: lighter;
+} 
+
+.content a {
+  color: $subtitle;
+}

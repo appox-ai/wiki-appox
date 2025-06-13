@@ -1,0 +1,44 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+
+    <a class="navbar-brand" href="/">
+      <img src="/assets/images/appox.wiki_logo_light.svg" alt="Logo Appox.Wiki" id="logo_desktop">
+    </a>
+
+    <div style="align-self: flex-start; margin-left: 20px;">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+
+    <div class="collapse navbar-collapse px-2 flex flex-column " id="navbarSupportedContent">
+
+      <div id="logo_mobile">
+        <a class="navbar-brand" href="/">
+          <img src="/assets/images/appox.wiki_logo_light.svg" alt="Logo Appox.Wiki" 
+            style="height: 50px; margin-top: 10px; margin-bottom: 5px;">
+        </a>
+      </div>
+
+      <input id="search-input" class="form-control mb-2 mt-4" type="text" placeholder="Search" aria-label="Search"
+        style="font-size: 12px; width: 100%;">
+
+      <span id="results-container" style="width: 100%;"></span>
+
+      <h4 class="mt-4 mb-2" style="align-self: start;">
+        Articles récents
+      </h4>
+      <div class="flex flex-row me-auto mb-2 mb-lg-0" style="width: 100%;">
+        {% assign max_posts = 5 %}
+        {% for post in site.posts limit: max_posts %}
+        <a href="{{ post.url }}">
+          <button class="btn btn-outline-light my-1" style="width: 100%; text-align: left; font-size: 12px;">{{
+            post.title }}</button>
+        </a>
+        {% endfor %}
+
+      </div>
+    </div>
+  </div>
+</nav>
