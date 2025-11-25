@@ -17,6 +17,17 @@
       {% include navigation.html %}
     </div>
     <div class="content">
+      <div style="text-align: right;"> 
+        <a href="https://github.com/appox-ai/wiki-appox/edit/main/{{ page.path }}"
+          target="_blank" style="margin-right: 10px;">
+          Edit
+        </a>
+        <a href="https://github.com/appox-ai/wiki-appox/new/main/_posts"
+        target="_blank">
+          New
+        </a>
+      </div> 
+
       <h1>{{ page.title }}</h1>
       <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
       {{ content }}
