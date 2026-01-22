@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Wiki de AppOX | Accueil
+title: Wiki d'AppOX | Accueil
 ---
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
-<h1>Wiki de AppOX</h1>
+<h1>Wiki d'AppOX</h1>
 </div>
 
-Cet espace a pour but de rassembler de l'information utile pour mieux comprendre et harmoniser des concepts théoriques, grâce au partage de connaissances entre les différents collaborateurs et collaboratrices de <a href="https://appox.ai" target="_blank">App**OX**</a>.
+Cet espace a pour but de rassembler de l'information utile pour mieux comprendre et harmoniser des concepts théoriques, grâce au partage de connaissances entre les différents collaborateurs et collaboratrices d'<a href="https://appox.ai" target="_blank">App**OX**</a>.
 
 Si tu constates qu'une discussion au sein de ton équipe ne mène pas facilement à une conclusion claire sur un sujet donné, c’est peut-être le bon moment pour écrire ici ce que tu sais à ce propos, et inviter ton équipe à y contribuer avec son propre point de vue.
 
@@ -21,8 +21,6 @@ On est bien conscients que de nouvelles connaissances se développent tous les j
 - Appuie-toi sur des sources fiables.
 - Évite de publier des images ou des textes soumis à des droits d’auteur ou à des restrictions d’utilisation.
 - Si tu partages une opinion ou une analyse personnelle, indique clairement ton nom comme auteur ou autrice.
-
-
 
 
 ## Lectures suggérées
