@@ -2,6 +2,7 @@
 layout: post
 title: Modèle de travail autogéré
 author: Jorge Cataño
+tags: [autogestion, gestion, autonomie]
 ---
 
 <blockquote>
