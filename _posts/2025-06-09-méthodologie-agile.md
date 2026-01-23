@@ -2,7 +2,7 @@
 layout: post
 title: Méthodologie Agile
 author: Jorge Cataño
-tags: [scrum, sprint]
+tags: [Scrum, Sprint]
 ---
 
 Scrum est un cadre de travail Agile léger, conçu pour aider les équipes à générer de la valeur dans des environnements complexes. 

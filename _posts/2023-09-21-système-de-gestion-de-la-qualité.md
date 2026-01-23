@@ -2,7 +2,7 @@
 layout: post
 title: Système de gestion de la qualité
 author: Jorge Cataño
-tags: [ISO, ISO-9001]
+tags: [ISO-9001, SMQ]
 ---
 
 La qualité des produits ou des services est un sujet vivement débattu depuis plusieurs décennies et a attiré l’attention de nombreux acteurs, dans le but d’atteindre un consensus à ce sujet.

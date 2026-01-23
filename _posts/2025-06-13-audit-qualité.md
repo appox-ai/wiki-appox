@@ -2,7 +2,7 @@
 layout: post
 title: Audit qualité
 author: Jorge Cataño
-tags: [ISO, ISO-9001, SMQ]
+tags: [ISO-9001, SMQ]
 ---
 
 <blockquote>
