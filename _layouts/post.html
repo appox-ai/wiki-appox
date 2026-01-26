@@ -29,9 +29,8 @@
       </div> 
 
       <h1>{{ page.title }}</h1>
-      <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
-
-      <p>Balises: 
+      <p style="margin-bottom: 2px;">{{ page.date | date_to_string }} - {{ page.author }}</p>
+      <p style="margin-top: 2px;">Balises: 
         {% for tag in page.tags %}
           <span class="badge text-bg-light">{{ tag }}</span>
         {% endfor %}
