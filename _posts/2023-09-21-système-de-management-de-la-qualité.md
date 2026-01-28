@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Système de gestion de la qualité
+title: Système de management de la qualité
 author: Jorge Cataño
 tags: [ISO-9001, SMQ]
 ---
 
 La qualité des produits ou des services est un sujet vivement débattu depuis plusieurs décennies et a attiré l’attention de nombreux acteurs, dans le but d’atteindre un consensus à ce sujet.
 
-Considérons les cas suivants :
+Considérons les cas suivants:
 
 - Pour un acheteur lambda, le prix peut être un indicateur de qualité.
 - Pour un organisme public de contrôle, la sécurité du produit est un facteur de qualité.
@@ -17,10 +17,11 @@ Considérons les cas suivants :
 
 Cette liste de critères de qualité peut être aussi longue que le nombre d’évaluateurs impliqués, et semble infinie.
 
-Certains auteurs ont abordé ce sujet en profondeur, et bien que pour certains types de produits/services la définition soit assez mature (par exemple : les produits pharmaceutiques, les aliments, les dispositifs médicaux), dans d’autres domaines, la discussion se poursuit — c’est le cas actuel des critères de qualité pour les logiciels.
+Plusieurs auteurs ont étudié ce sujet en profondeur. Si, pour certains types de produits ou de services, la définition est aujourd’hui bien établie (par exemple les produits pharmaceutiques, les denrées alimentaires ou les dispositifs médicaux), dans d’autres domaines la réflexion se poursuit. C’est notamment le cas des critères de qualité applicables aux logiciels.
 
 
 ## Cadre historique et de référence
+
 Au milieu du XXe siècle, le concept de qualité est devenu essentiel dans les secteurs pharmaceutique et alimentaire, en raison de son impact direct sur la santé des personnes. Cela a conduit à la création d’organismes spécialisés dans le débat et l’établissement de critères pour garantir la qualité de ces produits, comme <a href="https://www.who.int/" target="_blank">l’organisation mondiale de la santé</a> ou <a href="https://www.iso.org/" target="_blank">l’organisation internationale de normalisation</a>.
 
 Dans les années 1990, l'utilisation de systèmes informatisés dans la fabrication de denrées alimentaires et de médicaments a pris de l'ampleur. En conséquence, ces systèmes sont devenus un sujet de discussion en matière de qualité, car les enregistrements générés et les données stockées dans ces systèmes servaient à prendre des décisions de qualité sur les produits destinés à la commercialisation.
@@ -39,9 +40,9 @@ Ces documents ont été publiés aux États-Unis et définissent un cadre régle
 
 L’Organisation internationale de normalisation (<a href="https://www.iso.org/" target="_blank">ISO</a>) est un organisme indépendant et non gouvernemental, qui a commencé ses activités au milieu des années 1940 et qui a une portée mondiale. Elle travaille à la définition de normes de qualité applicables à tous types d'organisations.
 
-En 2015, la norme <a href="https://www.iso.org/obp/ui#iso:std:iso:9001:ed-5:v2:fr" target="_blank">ISO 9001 Systèmes de management de la qualité</a> a été publiée. Elle définit les exigences minimales à respecter par une entreprise pour mettre en place et maintenir un système de qualité auditable. Cette norme n’est pas limitée à un type ou à une taille d’entreprise spécifique.
+En 1987, la première version de la norme  <a href="https://www.iso.org/obp/ui#iso:std:iso:9001:ed-5:v2:fr" target="_blank">ISO 9001 Systèmes de management de la qualité</a> a été publiée par l’ISO. Depuis sa publication initiale, la norme a fait l’objet de plusieurs révisions afin de rester pertinente et de s’adapter à l’évolution des pratiques organisationnelles et commerciales. Les principales révisions ont eu lieu en 1994, 2000, 2008, et la version actuellement en vigueur date de 2015. Elle définit les exigences minimales à respecter par une entreprise pour mettre en place et maintenir un système de qualité auditable. Cette norme n’est pas limitée à un type ou à une taille d’entreprise spécifique.
 
-En plus de la norme <a href="https://www.iso.org/standard/62085.html" target="_blank">ISO 9001</a>, d’autres normes autour de la Qualité des systèmes et logiciels (SQuaRE) ont été publiées par l’ISO, parmi lesquelles :
+En plus de la norme <a href="https://www.iso.org/standard/62085.html" target="_blank">ISO 9001</a>, d’autres normes autour de la Qualité des systèmes et logiciels (SQuaRE) ont été publiées par l’ISO, parmi lesquelles:
 
 - <a href="https://www.iso.org/standard/80655.html" target="_blank">ISO/IEC 25059:2023 SQuaRE — Modèle de qualité pour les systèmes d’IA</a>
 - <a href="https://www.iso.org/standard/61579.html" target="_blank">ISO/IEC 25051:2014 SQuaRE — Exigences de qualité pour les produits logiciels prêts à l’emploi (RUSP) et instructions de test</a>
@@ -66,12 +67,9 @@ Basé sur le cycle PDCA (Plan-Do-Check-Act), la norme ISO 9001:2015 propose une 
 </div>
 
 
-
-
-
 Comme mentionné, le SMQ est présent dans toute l’organisation et chaque collaborateur a un impact sur ce système.
 
-C’est pourquoi le SMQ nécessite certains éléments pour atteindre ses objectifs et garantir sa pérennité dans le temps :
+C’est pourquoi le SMQ nécessite certains éléments pour atteindre ses objectifs et garantir sa pérennité dans le temps:
 
 - Documentation
 - Formation

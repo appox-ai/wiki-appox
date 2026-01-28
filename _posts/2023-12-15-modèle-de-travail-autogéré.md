@@ -2,7 +2,7 @@
 layout: post
 title: Modèle de travail autogéré
 author: Jorge Cataño
-tags: [autogestion, gestion, autonomie]
+tags: [Autogestion, Gestion, Autonomie]
 ---
 
 <blockquote>
@@ -13,7 +13,7 @@ Les modèles de gestion des ressources d’entreprise ont été la pierre angula
 
 Certaines adoptent un « modèle pyramidal traditionnel », où la haute direction dirige minutieusement les activités de toute l'organisation, mais cela limite la capacité de croissance de l'entreprise en fonction de la capacité de gestion de la direction.
 
-Ce modèle génère souvent beaucoup de pression sur la haute direction en raison du nombre de décisions à prendre, des risques à évaluer pour chaque décision en attente, de la définition des activités par service, de la communication des décisions à chaque responsable, du suivi de l’état d’avancement des activités — et cela, multiplié par le nombre de services de l’entreprise.
+Ce modèle génère souvent beaucoup de pression sur la haute direction en raison du nombre de décisions à prendre, des risques à évaluer pour chaque décision en attente, de la définition des activités par service, de la communication des décisions à chaque responsable, du suivi de l’état d’avancement des activités et cela, multiplié par le nombre de services de l’entreprise.
 
 Il est courant de constater que les entreprises ayant des environnements de travail peu conviviaux fonctionnent souvent selon un schéma de gestion pyramidal.
 

@@ -45,7 +45,6 @@ La principale différence réside dans l’identité de l’auditeur :
 Un **audit interne** est conduit par un collaborateur de l’entreprise, tandis qu’un **audit externe** est mené par une personne ou un organisme indépendant.
 
 
-
 ## Ce que l’audité doit prendre en compte
 
 Avant tout, il est important de considérer l’audit non comme une sanction en cas de non-conformité, mais comme une opportunité d’amélioration des processus internes.
@@ -72,6 +71,6 @@ En outre, cela rassure les clients : ils ont la garantie que les services qu’i
 Enfin, l’audit qualité permet de repérer des axes d’amélioration et de corriger les écarts avant qu’ils ne deviennent des problèmes majeurs.
 
 
-## Referencias
+## Références
 
 \[1\] <a href="https://www.iso.org/obp/ui#iso:std:iso:9001:ed-5:v2:fr" target="_blank">ISO 9001:2015</a>
